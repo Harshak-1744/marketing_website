@@ -5,7 +5,7 @@ const Description = () => {
     const revealFromBottom = useSpring({
         from: { opacity: 0, transform: 'translateY(20px)' },
         to: { opacity: 1, transform: 'translateY(0)' },
-        config: { duration: 1000 } // Customize the duration
+        config: { duration: 1000 } 
     });
         return (
             <div className="p-4">
