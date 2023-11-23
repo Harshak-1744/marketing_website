@@ -11,7 +11,7 @@ const Features = () => {
   return (
     <div className="font-poppins">
 
-    <div className="w-full min-h-screen bg-slate-50 p-6">
+    <div className="w-full min-h-screen bg-white-50 p-6">
 
         <h1 className="font-bold text-xl text-center md:text-3xl md:mt-12 mb-4">Check out the <span class="text-red-500">Features</span> of our App</h1>
 
@@ -62,15 +62,11 @@ const Features = () => {
                 <h2 className="text-center px-2 pb-5">Terminal Commands</h2>  
                 
                 <a href="#" className="bg-blue-500 text-white p-3 text-center hover:bg-blue-800 transition-all duration-500">Know More</a>
-
             </div>
-
+            
         </div>
-
     </div>
-
   </div>
-
   )
 }
 

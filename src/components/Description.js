@@ -15,8 +15,7 @@ const Description = () => {
                         making development faster, smarter, and more reliable. Seamlessly integrating with your 
                         favorite IDEs, it offers real-time feedback and suggestions to improve code quality and 
                         ensure standards compliance. Enhance collaboration across your team with shared insights, 
-                        and stay ahead of performance and security issues with proactive analysis. With SyntaxIQ, 
-                        you're not just coding; you're crafting the future of software with every line.
+                        and stay ahead of performance and security issues with proactive analysis.
                     </p>
         </div>
         );
